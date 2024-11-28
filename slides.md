@@ -1,6 +1,6 @@
 ---
-title: "Introdução a containers e orquestração"
-date: 2024-11-26
+title: Introdução a containers e orquestração
+date: 26 de novembro de 2024
 author: Gustavo Martins T Borges
 ---
 
