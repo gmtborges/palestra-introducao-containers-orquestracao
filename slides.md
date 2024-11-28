@@ -120,3 +120,9 @@ CNCF (Cloud Native Compute Foundation)
 
 - @gmtborges (Instagram, Github)
 - linkedin.com/in/gmtborges
+
+# Conteúdo
+
+https://github.com/gmtborges/palestra-introducao-containers-orquestracao
+
+![](./qrcode-github.png){width=640}
